@@ -1,0 +1,30 @@
+_repo: History-of-the-Spanish-Conquest-of-Yucatan-and-of-the-Itzas--13-Papers-of-the-Peabody-Museum-__33231
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Means, Philip Ainsworth
+    alias: Means, P. A. (Philip Ainsworth)
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '32118'
+    url: http://www.gutenberg.org/2009/agents/32118
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33231'
+  lccn: '17010577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Itza Indians'
+- !lcsh 'Yucatán (Mexico : State) -- History'
+title: "History of the Spanish Conquest of Yucatan and of the Itzas\r\nPapers of the\
+  \ Peabody Museum of American Archaeology and Ethnology, Hard University. Vol. VII."
+url: http://www.gutenberg.org/ebooks/33231
